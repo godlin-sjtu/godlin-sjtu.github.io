@@ -30,17 +30,15 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 # 📝 Selected Publications 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.Png' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://godlin-sjtu.github.io/)
 
 **Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
+</div>
+</div>
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hypersphere.png' alt="sym" width="300px" height="200px"></div></div>
@@ -49,6 +47,10 @@ My research interest includes multi-modal learning and medical image segmentatio
 [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://godlin-sjtu.github.io/)
 
 **Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, Wei Shen
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship. 
