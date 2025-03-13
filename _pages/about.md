@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis.
 
-My research interest includes multi-modal learning and medical image segmentation. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>260+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes multi-modal learning and medical image segmentation. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>260+</span></strong></a>.
 
 
 # 🔥 News
