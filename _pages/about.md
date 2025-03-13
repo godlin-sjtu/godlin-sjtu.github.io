@@ -21,13 +21,6 @@ I am a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU), supervi
 
 My research interest includes multi-modal learning and medical image segmentation. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>260+</span></strong></a>.
 
-
-# 📖 Educations
--   *2022.09 - 2026.06 (now)*: PhD student of Shanghai Jiaotong University.
--   *2019.09 - 2022.06*: Master student of Xidian University.
--   *2015.09 - 2019.06*: Undergraduate student of Xidian University.
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -53,8 +46,9 @@ My research interest includes multi-modal learning and medical image segmentatio
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-   *2022.09 - 2026.06 (now)*, PhD student of Shanghai Jiaotong University.
+-   *2019.09 - 2022.06*, Master student of Xidian University.
+-   *2015.09 - 2019.06*, Undergraduate student of Xidian University.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
