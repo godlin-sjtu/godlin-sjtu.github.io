@@ -35,7 +35,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
 </div>
 </div>
 
@@ -46,7 +46,18 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, Wei Shen
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/SBM.png' alt="sym" width="500px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Star with Bilinear Mapping](https://godlin-sjtu.github.io/)
+
+**Zelin Peng**, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang, Wei Shen
 </div>
 </div>
 
