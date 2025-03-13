@@ -28,7 +28,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 - *2023.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2024 as a first-author contribution.
 - *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2023 as a first-author contribution.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
