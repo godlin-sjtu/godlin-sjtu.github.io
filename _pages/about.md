@@ -75,17 +75,6 @@ Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Param
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/CVPR2024.png' alt="sym" width="500px" height="200px"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604)
-
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/AAAI2025.png' alt="sym" width="500px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
 
