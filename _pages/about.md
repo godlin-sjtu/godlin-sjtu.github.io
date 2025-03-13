@@ -80,7 +80,7 @@ Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Param
 
 [SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604)
 
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang and Wei Shen
 </div>
 </div>
 
