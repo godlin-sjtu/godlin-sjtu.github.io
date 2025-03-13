@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis.
+I am a third-year PhD student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis. Please feel free to contact me through email: zelin.peng@sjtu.edu.cn.
 
 My research interest includes multi-modal learning and medical image segmentation. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>260+</span></strong></a>.
 
@@ -30,7 +30,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hyperbolic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://godlin-sjtu.github.io/)
@@ -40,7 +40,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hyperbsphere.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://godlin-sjtu.github.io/)
