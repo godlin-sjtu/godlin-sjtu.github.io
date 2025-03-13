@@ -69,7 +69,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 [Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment
 Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchestration_for_Segment_Anything_CVPR_2024_paper.pdf)
 
-**Zelin Peng**, Zhengqin Xu1, Zhilin Zeng, Lingxi Xie, Qi Tian and Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian and Wei Shen
 </div>
 </div>
 
