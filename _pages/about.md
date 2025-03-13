@@ -30,7 +30,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.Png' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.png' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://godlin-sjtu.github.io/)
