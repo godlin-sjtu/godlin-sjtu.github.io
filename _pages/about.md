@@ -37,12 +37,15 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 **Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
 
-%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' %data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Zelin Peng**, Zehngqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, Wei Shen
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship. 
@@ -52,10 +55,6 @@ My research interest includes multi-modal learning and medical image segmentatio
 -   *2022.09 - 2026.06 (now)*, PhD student of Shanghai Jiaotong University, supervised by Prof. Wei Shen.
 -   *2019.09 - 2022.06*, Master student of Xidian University, supervised by Prof. Xiangrong Zhang.
 -   *2015.09 - 2019.06*, Undergraduate student of Xidian University.
-
-%# 💬 Invited Talks
-%- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.08 - 2024.12*, Huawei, Shanghai, China.
