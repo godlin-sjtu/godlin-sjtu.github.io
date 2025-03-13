@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis.
+I am a third-year PhD student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis.
 
 My research interest includes multi-modal learning and medical image segmentation. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>260+</span></strong></a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 Six papers have been accepted by CVPR 2025, with **three** of them as first-author contributions. 
+- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025.
+- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2024 as a first-author contribution.
+- *2023.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2024 as a first-author contribution.
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2023 as a first-author contribution.
 
 # 📝 Publications 
 
@@ -42,17 +45,17 @@ My research interest includes multi-modal learning and medical image segmentatio
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship. 
+- *2021.10* National Scholarship. 
 
 # 📖 Educations
--   *2022.09 - 2026.06 (now)*, PhD student of Shanghai Jiaotong University.
--   *2019.09 - 2022.06*, Master student of Xidian University.
+-   *2022.09 - 2026.06 (now)*, PhD student of Shanghai Jiaotong University, supervised by Prof. Wei Shen.
+-   *2019.09 - 2022.06*, Master student of Xidian University, supervised by Prof. Xiangrong Zhang.
 -   *2015.09 - 2019.06*, Undergraduate student of Xidian University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+%# 💬 Invited Talks
+%- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+%- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.08 - 2024.12*, Huawei, Shanghai, China.
