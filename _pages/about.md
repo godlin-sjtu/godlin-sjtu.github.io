@@ -35,7 +35,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang and Wei Shen
 </div>
 </div>
 
@@ -46,7 +46,7 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, Wei Shen
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang and Wei Shen
 </div>
 </div>
 
@@ -57,7 +57,52 @@ My research interest includes multi-modal learning and medical image segmentatio
 
 [Star with Bilinear Mapping](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang, Wei Shen
+**Zelin Peng**, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang and Wei Shen
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/CVPR2024.png' alt="sym" width="500px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment
+Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchestration_for_Segment_Anything_CVPR_2024_paper.pdf)
+
+**Zelin Peng**, Zhengqin Xu1, Zhilin Zeng, Lingxi Xie, Qi Tian and Wei Shen
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/CVPR2024.png' alt="sym" width="500px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604)
+
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/AAAI2025.png' alt="sym" width="500px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604)
+
+**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/ICCV2023.png' alt="sym" width="500px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised
+Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_USAGE_A_Unified_Seed_Area_Generation_Paradigm_for_Weakly_Supervised_ICCV_2023_paper.pdf)
+
+**Zelin Peng**, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, Wei Shen, and Qi Tian
 </div>
 </div>
 
