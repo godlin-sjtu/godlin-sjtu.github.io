@@ -57,7 +57,7 @@ I have published more than 20 papers at the top international AI conferences wit
 
 [Star with Bilinear Mapping](https://godlin-sjtu.github.io/)
 
-**Zelin Peng**, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang and Wei Shen
+**Zelin Peng**<sup>*</sup>, Yu Huang<sup>*</sup>, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang and Wei Shen
 </div>
 </div>
 
@@ -69,7 +69,7 @@ I have published more than 20 papers at the top international AI conferences wit
 [Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment
 Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchestration_for_Segment_Anything_CVPR_2024_paper.pdf)
 
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian and Wei Shen
+**Zelin Peng**<sup>*</sup>, Zhengqin Xu<sup>*</sup>, Zhilin Zeng, Lingxi Xie, Qi Tian and Wei Shen
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Anything Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Param
 
 [SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604)
 
-**Zelin Peng**, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang and Wei Shen
+**Zelin Peng**<sup>*</sup>, Zhengqin Xu<sup>*</sup>, Zhilin Zeng, Xiaokang Yang and Wei Shen
 </div>
 </div>
 
