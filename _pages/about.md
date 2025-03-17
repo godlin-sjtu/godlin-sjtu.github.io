@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year PhD student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis. Please feel free to contact me through email: **zelin.peng@sjtu.edu.cn**.
 
-I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>270+</span></strong></a>.
+I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'>google scholar citations <strong><span id='total_cit'>273</span></strong></a>.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Six papers have been accepted by CVPR 2025, with **three** of them as first-author contributions. 
