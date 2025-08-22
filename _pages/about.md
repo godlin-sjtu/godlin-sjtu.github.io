@@ -108,3 +108,4 @@ Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Pen
 
 # 💻 Internships
 - *2023.08 - 2024.12*, Huawei, Shanghai, China.
+- *2025.07 - now*, Meituan, Beidou Intern, Shanghai, China.
