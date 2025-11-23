@@ -22,6 +22,7 @@ I am a third-year PhD student at Shanghai Jiao Tong University (SJTU), supervise
 I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by JBHI 2025 (IF 6.8) as a first-author contribution.
 - *2025.11*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2026, with **one** of them as a first-author contribution.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025 for an **oral** presentation as a first-author contribution.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2025 BEW workshop as a first-author contribution.
