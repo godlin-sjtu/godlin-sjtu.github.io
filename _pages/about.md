@@ -24,7 +24,7 @@ I have published more than 30 papers at the top international AI conferences wit
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by JBHI 2025 (IF 6.8) as a first-author contribution.
 - *2025.11*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2026, with **one** of them as a first-author contribution.
-- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025 for an **oral** presentation as a first-author contribution.
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025 for an **oral** presentation (77/21575) as a first-author contribution.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2025 BEW workshop as a first-author contribution.
 - *2025.02*: &nbsp;🎉🎉 Six papers have been accepted by CVPR 2025, with **three** of them as first-author contributions. 
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 as the project leader.
