@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a forth-year PhD student at Shanghai Jiao Tong University (SJTU), supervised by Prof. Wei Shen. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis. Please feel free to contact me through email: **zelin.peng@sjtu.edu.cn**.
+I am a senior researcher at JD EXPLORE ACADEMY, supervised by Jiaqi Wang. My research interests include parameter-efficient learning, semantic segmentation, and medical image analysis. Please feel free to contact me through email: **zelin.peng@sjtu.edu.cn**.
 
 I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6mYmXrEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -108,7 +108,7 @@ Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Pen
 - *2021.10* National Scholarship. 
 
 # 📖 Educations
--   *2022.09 - 2026.06 (now)*, PhD student of Shanghai Jiaotong University, supervised by Prof. Wei Shen.
+-   *2022.09 - 2026.06*, PhD student of Shanghai Jiaotong University, supervised by Prof. Wei Shen.
 -   *2019.09 - 2022.06*, Master student of Xidian University, supervised by Prof. Xiangrong Zhang.
 -   *2015.09 - 2019.06*, Undergraduate student of Xidian University.
 
